@@ -7,12 +7,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "fca-priyansh": "^18.1.10",
-    "canvas": "^3.0.0-beta.2",
+    "fca-priyansh": "22.0.0",
+    "canvas": "^2.11.2",
     "tinyurl": "^1.1.7",
     "string-similarity": "^4.0.4"
   },
   "engines": {
-    "node": ">=20.x"
+    "node": ">=18.x"
   }
 }
